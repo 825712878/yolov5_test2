@@ -1,0 +1,9 @@
+names:
+- Helmet
+- Helmet-Blurred
+- Helmet-Difficult
+- Helmet-Sideline
+- Helmet-Partial
+nc: 5
+train: C:/AA_own/learning_files/coding_data/Img_ob/yolov5/NFL/images/train
+val: C:/AA_own/learning_files/coding_data/Img_ob/yolov5/NFL/images/valid

@@ -1,0 +1,6 @@
+names:
+- Helmet
+- Helmet-Impacted
+nc: 2
+train: C:/AA_own/learning_files/datasets/Helmet/DATA_FOR_TRAINING_YOLOV5/fold_1/images/train
+val: C:/AA_own/learning_files/datasets/Helmet/DATA_FOR_TRAINING_YOLOV5/fold_1/images/valid
